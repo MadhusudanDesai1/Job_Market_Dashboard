@@ -1,0 +1,7 @@
+kagglehub
+pandas
+sqlalchemy
+streamlit
+plotly
+seaborn
+matplotlib
