@@ -1,6 +1,6 @@
 # 📊 Data Science Job Market Dashboard (2024)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
+[![Streamlit App](https://madhusudandesai1-job-market-dashboard-app-wddgdf.streamlit.app)]
 
 ## 📌 Project Overview
 
@@ -42,7 +42,7 @@ I treated this project as a full-stack data engineering and analysis task, broke
   - **CASE Statements:** To categorize distinct salary bands and company sizes.
   - **Window Functions:** To rank companies by hiring volume.
   - **Aggregations:** To calculate the "Manager Premium."
-  _Example SQL Logic used for segmentation:_
+    _Example SQL Logic used for segmentation:_
   ```sql
   SELECT
       CASE company_size
