@@ -1,6 +1,6 @@
 # 📊 Data Science Job Market Dashboard (2024)
 
-[![Streamlit App](https://madhusudandesai1-job-market-dashboard-app-wddgdf.streamlit.app)]
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://madhusudandesai1-job-market-dashboard-app-wddgdf.streamlit.app)
 
 ## 📌 Project Overview
 
